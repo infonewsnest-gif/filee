@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewsNestBD Live Studio</string>
+    <!-- Facebook Developer এ অ্যাপ বানিয়ে এখানে আসল ID ও Client Token বসান -->
+    <string name="facebook_app_id">000000000000000</string>
+    <string name="facebook_client_token">replace_with_your_client_token</string>
+    <!-- "fb" + আপনার App ID, যেমন fb1234567890 (ব্রাউজার দিয়ে লগইনের জন্য) -->
+    <string name="fb_login_protocol_scheme">fb000000000000000</string>
+</resources>
